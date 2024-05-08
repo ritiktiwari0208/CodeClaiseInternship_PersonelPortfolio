@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../WEB DEVELOPMENT"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CodeClauseInternship_PersonelPortfolio"
+	}
+}
